@@ -1,0 +1,6 @@
+framework module Pods_LankaQRValidation_Example {
+  umbrella header "Pods-LankaQRValidation_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

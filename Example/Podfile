@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LankaQRValidation_Example' do
+  pod 'LankaQRValidation', :path => '../'
+
+  target 'LankaQRValidation_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

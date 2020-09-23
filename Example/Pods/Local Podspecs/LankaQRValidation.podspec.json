@@ -1,0 +1,22 @@
+{
+  "name": "LankaQRValidation",
+  "version": "1.0.1",
+  "summary": "LankaQRValidation for iOS.",
+  "description": "LankaQRValidation pod can be used to validate QR codes issued in LankaQR standard.",
+  "homepage": "https://github.com/kasunranganamw/LankaQRValidation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kasunranganamw@gmail.com": "kasunranganamw@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/kasunranganamw/LankaQRValidation.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LankaQRValidation/Classes/**/*"
+}

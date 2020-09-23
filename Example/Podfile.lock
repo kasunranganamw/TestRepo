@@ -1,0 +1,16 @@
+PODS:
+  - LankaQRValidation (1.0.1)
+
+DEPENDENCIES:
+  - LankaQRValidation (from `../`)
+
+EXTERNAL SOURCES:
+  LankaQRValidation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LankaQRValidation: c6fdb60b3ef47e92fd9ccf62c283849753bc9e55
+
+PODFILE CHECKSUM: f74a10e6abbff651e8293aadc92151e0010f0975
+
+COCOAPODS: 1.8.3

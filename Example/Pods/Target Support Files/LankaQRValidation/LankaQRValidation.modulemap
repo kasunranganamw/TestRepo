@@ -1,0 +1,6 @@
+framework module LankaQRValidation {
+  umbrella header "LankaQRValidation-umbrella.h"
+
+  export *
+  module * { export * }
+}
